@@ -28,7 +28,9 @@ disqusShortname = "ink-demo"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
-
+    utterancesRepo = "onesupercoder/onesupercoder" # Utterances is enabled when this param is set
+    utterancesTheme = "github-dark" # Default: github-dark
+    utterancesIssueTerm = "pathname" # Default: pathname
 # Nav.
 [[menu.main]]
 name = "Home"
