@@ -15,7 +15,9 @@ tags: [projects]
     |__|             \/     \/     \/     \/      
 {{< / highlight >}}
 
-What if you could set up your machine for a preferred programming language or even job role with just one simple command?
+I'm an updater.  I like to keep my system up to date.  I like to update the OS, my programming language and my dependencies.  I also love to try different programming languages.
+
+What if you could update and set up your machine for a preferred programming language or even job role with just one simple command?
 
 {{< highlight shell >}}
 $ quickset rails
