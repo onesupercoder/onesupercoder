@@ -69,3 +69,8 @@ $ quickset
 
 Its definitely not for production environments where upgrading packages could crash software, but it seems like a useful idea for myself.  Most everyone else will probably never need or want it, but for me it will be nice to use and practice setting up vms on my computer.
 
+
+#### Update
+
+I built the first version of quickset in pure bash: https://github.com/quickset-org/quickset-bash-archive
+And now i'm working on one in Scala because I enjoy developing in Scala so much more.
