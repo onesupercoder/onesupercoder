@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:onesupercoder/onesupercoder.github.com.git
+	url = git@github.com:onesupercoder/onesupercoder.github.io.git
 	branch = master
